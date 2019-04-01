@@ -1,0 +1,34 @@
+% Relación entre Y y X controlando por una variable U
+% Christian Poss, Universidad EAFIT
+% 7 November 2017
+ 
+# Agradecimientos
+
+Agradezco el trabajo realizado por Manuel Alejandro Rodriguez en la creacion del codigo.
+Así mismo se reconoce el trabajo del profesor Nick Huntington-Klein, pieza fundamental para crear esta presentación. 
+ 
+```s/
+   qui{
+   kplot1 100
+   }
+```
+
+# Correlación entre Y & X sin controlar por U
+
+![](correlation1.png){width="45%"}
+
+# Correlación entre X & U
+
+![](correlation2.png){width="45%"}
+
+# Removiendo la correlación entre X & U
+
+![](correlation3.png){width="45%"}
+
+# Correlación entre Y & U 
+
+![](correlation4.png){width="45%"}
+
+# Removiendo la correlación entre Y & U 
+
+![](correlation5.png){width="45%"}
