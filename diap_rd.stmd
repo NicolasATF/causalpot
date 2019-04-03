@@ -1,4 +1,4 @@
-% Relación entre Y y X controlando por una variable U
+% Diseño de Regresión Discontinua (RDD)
 % Christian Poss, Universidad EAFIT
 % 7 November 2017
  
@@ -7,22 +7,19 @@
 Agradezco el trabajo realizado por Manuel Alejandro Rodriguez en la creacion del codigo.
 Así mismo se reconoce el trabajo del profesor Nick Huntington-Klein, pieza fundamental para crear esta presentación. 
  
-# Correlación entre Y & X sin controlar por U
+# Outcome Tratados & Controles
 
 ![](correlation1.png){width="45%"}
 
-# Correlación entre X & U
+# Correlación Y & Running variable 
 
 ![](correlation2.png){width="45%"}
 
-# Removiendo la correlación entre X & U
+# Promedios de Y explicados por R
 
 ![](correlation3.png){width="45%"}
 
-# Correlación entre Y & U 
+# Diferencia entre Tratados y Controles al rededor del corte
 
 ![](correlation4.png){width="45%"}
 
-# Removiendo la correlación entre Y & U 
-
-![](correlation5.png){width="45%"}

@@ -1,4 +1,4 @@
-% Relación entre Y y X controlando por una variable U
+% Propensity Score Matching (PSM)
 % Christian Poss, Universidad EAFIT
 % 7 November 2017
  
@@ -7,22 +7,22 @@
 Agradezco el trabajo realizado por Manuel Alejandro Rodriguez en la creacion del codigo.
 Así mismo se reconoce el trabajo del profesor Nick Huntington-Klein, pieza fundamental para crear esta presentación. 
  
-# Correlación entre Y & X sin controlar por U
+# Tratados & Controles antes de emparejamiento
 
 ![](correlation1.png){width="45%"}
 
-# Correlación entre X & U
+# Emparejando Tratados & Controles con X similares (caliper)
 
 ![](correlation2.png){width="45%"}
 
-# Removiendo la correlación entre X & U
+# Nos quedamos con los Controles con X similares
 
 ![](correlation3.png){width="45%"}
 
-# Correlación entre Y & U 
+# Obtenemos el promedio de Y para Tratados & Controles
 
 ![](correlation4.png){width="45%"}
 
-# Removiendo la correlación entre Y & U 
+# Se obtiene el ATE
 
 ![](correlation5.png){width="45%"}

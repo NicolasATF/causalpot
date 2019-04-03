@@ -1,4 +1,4 @@
-% Relación entre Y y X controlando por una variable U
+% Diseño de Diferencias e Diferencias (DifinDif)
 % Christian Poss, Universidad EAFIT
 % 7 November 2017
  
@@ -7,22 +7,19 @@
 Agradezco el trabajo realizado por Manuel Alejandro Rodriguez en la creacion del codigo.
 Así mismo se reconoce el trabajo del profesor Nick Huntington-Klein, pieza fundamental para crear esta presentación. 
  
-# Correlación entre Y & X sin controlar por U
+# Outcome Tratados & Controles
 
 ![](correlation1.png){width="45%"}
 
-# Correlación entre X & U
+# Diferencias en Y explicadas por Grupo y Tiempo
 
 ![](correlation2.png){width="45%"}
 
-# Removiendo la correlación entre X & U
+# Manteniendo los promedios explicados por Grupo y Tiempo
 
 ![](correlation3.png){width="45%"}
 
-# Correlación entre Y & U 
+# Realizando doble diferencia
 
 ![](correlation4.png){width="45%"}
 
-# Removiendo la correlación entre Y & U 
-
-![](correlation5.png){width="45%"}
